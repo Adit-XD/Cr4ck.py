@@ -64,7 +64,7 @@ def moch_yayan():
     time.sleep(0.1)
 
     yayan=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
-    if adit == "1" or adit =="01":
+    if yayan == "1" or yayan =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
          id = []
@@ -368,5 +368,5 @@ if __name__=="__main__":
      croot()
      ikeh_ikeh_kimochi()
      kontol()
-     moch_adit()
-     aditxd()
+     moch_yayan()
+     yayanxd()
